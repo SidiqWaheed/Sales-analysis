@@ -22,6 +22,18 @@ During the initial data preparation phase, we undertook the following tasks:
 3. Data Cleaning and Formatting: We standardized and corrected the data to enhance accuracy and consistency.
 4. Finally we replaced blank spaces with the designation "Unknown & Undisclosed" to ensure clarity and consistency in the dataset.
 
-###
+### Exploratory Data Analysis
+
+- What is the sales trend?
+- Who are the top 10 cusotomers?
+- What are the sales regiongs?
+- Who are the customers by revenue?
+- What are the product by revenue?
+- What are the category by revenue?
+- 
+
+
+
+
 
 
