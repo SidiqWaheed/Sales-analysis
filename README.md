@@ -1,4 +1,4 @@
-# Sales-analysis
+![image](https://github.com/user-attachments/assets/96c4d080-07e2-445b-99e9-2f8a0c3913bf)# Sales-analysis
 The 2014 St. Louis Sales analysis
 
 ### Project overview
@@ -44,7 +44,18 @@ During the initial data preparation phase, we undertook the following tasks:
 3. Payment type: Analysis indicates that credit cards are the most widely used payment method, accounting for 40% of transactions, while cash transactions represent the least common payment type at 9%.
 4. Top 10 customers by Revenue: Our analysis of the top 10 products by revenue reveals that the coffee product leads with sales amounting to approximately $75,486, followed by the curry sauce product with around $69,000 in revenue.
 5. Sales Regions: North is currently achieving the highest sales, surpassing other regions by 32%.
-6. Our analysis of the top 10 products by revenue reveals that the coffee product leads with sales amounting to approximately $75,486, followed by the curry sauce product with around $69,000 in revenue.
+6. Top 10 product by Revenue: Our analysis of the top 10 products by revenue reveals that the coffee product leads with sales amounting to approximately $75,486, followed by the curry sauce product with around $69,000 in revenue.
+7. Top 5 Category by Revenue: The top category is beverages, leading the chart with a 35% share, followed by sauces, which have seen a reduction from $110,577 to $69,000.
+8. Sales Person By Revenue: Nancy Freehefar: As the top performer in sales, Nancy Freehefar has demonstrated exceptional performance.
+- Jon Kotas: In light of the current sales performance, Jon Kotas has been identified as having the lowest sales figures.
+9. Shipper Name by Shipping Fee: Shipping Company C is currently charging the highest shipping fees, exceeding others by 31%, followed by Company A with a 29% higher fee.
+10. Top 5 Bottom Product Revenue: The top category is beverages, leading the chart with a 35% share, followed by sauces, which have seen a reduction from $110,577 to $69,000.
+
+
+
+
+
+
 
 
 
