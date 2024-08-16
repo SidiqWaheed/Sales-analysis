@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96c4d080-07e2-445b-99e9-2f8a0c3913bf)# Sales-analysis
+# Sales-analysis
 The 2014 St. Louis Sales analysis
 
 ### Project overview
