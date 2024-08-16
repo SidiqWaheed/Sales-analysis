@@ -35,6 +35,23 @@ During the initial data preparation phase, we undertook the following tasks:
 - What are the payment type?
 - What are the shipper by name?
 - Categorizing the Shipper name by shipping fee.
-- WHat are the ship name by quantity?
+- What are the ship name by quantity?
+
+### Results and findings
+
+1. Sales trend: Sales have experienced a decline in February, April, November. 
+2. Top 10 Consumers: Analysis of Top 10 Consumers based on the recent analysis, Company D leads the top 10 consumers with a margin of 1,110, surpassing both Company H and Company BB.
+3. Payment type: Analysis indicates that credit cards are the most widely used payment method, accounting for 40% of transactions, while cash transactions represent the least common payment type at 9%.
+4. Top 10 customers by Revenue: Our analysis of the top 10 products by revenue reveals that the coffee product leads with sales amounting to approximately $75,486, followed by the curry sauce product with around $69,000 in revenue.
+5. Sales Regions: North is currently achieving the highest sales, surpassing other regions by 32%.
+6. Our analysis of the top 10 products by revenue reveals that the coffee product leads with sales amounting to approximately $75,486, followed by the curry sauce product with around $69,000 in revenue.
+
+
+
+
+
+
+ 
+
 
 
