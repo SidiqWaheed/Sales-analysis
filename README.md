@@ -30,10 +30,11 @@ During the initial data preparation phase, we undertook the following tasks:
 - Who are the customers by revenue?
 - What are the product by revenue?
 - What are the category by revenue?
-- 
-
-
-
-
+- What are the category by quantity?
+- What's the sales person by revenue?
+- What are the payment type?
+- What are the shipper by name?
+- Categorizing the Shipper name by shipping fee.
+- WHat are the ship name by quantity?
 
 
