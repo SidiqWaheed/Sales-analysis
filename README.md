@@ -51,18 +51,26 @@ During the initial data preparation phase, we undertook the following tasks:
 9. Shipper Name by Shipping Fee: Shipping Company C is currently charging the highest shipping fees, exceeding others by 31%, followed by Company A with a 29% higher fee.
 10. Top 5 Bottom Product Revenue: The top category is beverages, leading the chart with a 35% share, followed by sauces, which have seen a reduction from $110,577 to $69,000.
 
+### Recommendations
+
+1. To address this, it is recommended that the company implement targeted advertising and promotional campaigns during this months to boost sales performance.
+2. To incentivize increased engagement and drive higher patronage from other companies. It is recommended that Company D be recognized and rewarded for its significant contribution. This approach is expected to enhance overall consumer activity and encourage similar levels of engagement from other companies.
+3. To ensure optimal transaction efficiency and customer satisfaction, it is recommended that the company’s payment terminals or machines be maintained in excellent working condition. This will help support the predominant payment method and enhance the overall payment experience for consumers.
+4. Conversely, the five products with the lowest sales include dried plums and long grain rice. it is recommended that a further market analysis be conducted. This analysis should focus on understanding the factors contributing to their lack of improvement and identify opportunities for enhancement or strategic adjustments.
+5. To capitalize on this success and further drive growth. I recommend initiating targeted advertising campaigns in the West and South regions.
+6. Conversely, the five products with the lowest sales include dried plums and long grain rice. it is recommended that a further market analysis be conducted. This analysis should focus on understanding the factors contributing to their lack of improvement and identify opportunities for enhancement or strategic adjustments.
+7. I recommend conducting a detailed market analysis of the grains and fruits & vegetables categories, as they currently rank lower compared to beverages, to identify opportunities for growth and improvement.
+8. I recommend that she be recognized for her achievements through an appropriate award and considered for a promotion that reflects her outstanding contributions to the team.
+-It is advisable to implement a structured supervisory plan for Jon, including targeted support and training, to enhance his performance and achieve the team's goals
+9. To optimize shipping costs I recommend focusing on the shipping companies with the lowest fees and exploring ways to improve their service or cost structure.
+10. I recommend conducting a detailed market analysis of the grains and fruits & vegetables categories, as they currently rank lower compared to beverages, to identify opportunities for growth and improvement.
+
+
+   
 
 
 
 
-
-
-
-
-
-
-
- 
 
 
 
