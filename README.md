@@ -66,13 +66,3 @@ During the initial data preparation phase, we undertook the following tasks:
 -It is advisable to implement a structured supervisory plan for Jon, including targeted support and training, to enhance his performance and achieve the team's goals
 9. To optimize shipping costs I recommend focusing on the shipping companies with the lowest fees and exploring ways to improve their service or cost structure.
 10. I recommend conducting a detailed market analysis of the grains and fruits & vegetables categories, as they currently rank lower compared to beverages, to identify opportunities for growth and improvement.
-
-
-   
-
-
-
-
-
-
-
